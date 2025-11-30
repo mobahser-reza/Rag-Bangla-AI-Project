@@ -1,0 +1,12 @@
+flask
+sentence-transformers
+faiss-cpu
+pdfplumber
+nltk
+numpy
+scikit-learn
+groq
+python-dotenv
+tesserocr
+pillow
+pdf2image

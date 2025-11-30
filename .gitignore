@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# PyInstaller
+*.spec
+
+# Test output
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# FAISS/Vector store files (if you want to ignore large test files)
+*.pkl
+*.faiss
+
+# Data files (if you want to ignore large raw data)
+# Uncomment if you don't want to upload PDFs or extracted text
+# data/hsc26_bangla1.pdf
+# data/extracted_text.txt
+# data/cleaned_text.txt
+# data/chunks.txt
+# data/chunks_2line.txt
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
