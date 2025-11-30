@@ -542,8 +542,8 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 This project is open source and available under the MIT License.
 
 ## Authos
-Md Arifuzzaman Swapnil
-Email: [md.arifuzzamanswapnil@gmail.com]
-Contact: 01722569839
+M Mobasher Reza
+Email: [mobasherreza5@gmail.com]
+Contact: +880-1706630702
 
 ## Thank you for giving your valuable time.
